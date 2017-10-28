@@ -5,6 +5,7 @@ public class HelloGit {
 	public String getMessage() {
 		// TODO Auto-generated method stub
 		System.out.println("sup fam");
+		System.out.println("we out");
 		return "Hello Git!";
 	}
 
